@@ -1,0 +1,14 @@
+Added Component: Designator=U6(DRA818_breakout)
+Added Pin To Net: NetName=SQ Pin=U6-1
+Added Pin To Net: NetName=AF Pin=U6-3
+Added Pin To Net: NetName=PTT Pin=U6-5
+Added Pin To Net: NetName=PD Pin=U6-6
+Added Pin To Net: NetName=HL Pin=U6-7
+Added Pin To Net: NetName=3.3V Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-10
+Added Pin To Net: NetName=RF_OUT Pin=U6-12
+Added Pin To Net: NetName=RXD Pin=U6-16
+Added Pin To Net: NetName=TXD Pin=U6-17
+Added Pin To Net: NetName=MIC_IN Pin=U6-18
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component U6 DRA818V
