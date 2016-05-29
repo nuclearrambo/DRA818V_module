@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DRA818V Ham module.PrjPcb]
+   Generated File[DRA818V Ham module.GTL]
+   Generated File[DRA818V Ham module.GBL]
+   Generated File[DRA818V Ham module.GTO]
+   Generated File[DRA818V Ham module.GTP]
+   Generated File[DRA818V Ham module.GTS]
+   Generated File[DRA818V Ham module.GBS]
+   Generated File[DRA818V Ham module.GBP]
+   Generated File[DRA818V Ham module.GBO]
+   Generated File[DRA818V Ham module.GKO]
+   Generated File[DRA818V Ham module.GM1]
+   Generated File[DRA818V Ham module.GD1]
+   Generated File[DRA818V Ham module.GG1]
+   Generated File[DRA818V Ham module.RUL]
+   Generated File[DRA818V Ham module.EXTREP]
+   Generated File[DRA818V Ham module.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 6:41:49 PM On 5/22/2016

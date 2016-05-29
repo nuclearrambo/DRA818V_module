@@ -1,0 +1,33 @@
+
+
+Falling Edge Overshoot
+
+The following nets have values outside defined tolerance levels :
+
+
+Falling Edge Undershoot
+
+The following nets have values outside defined tolerance levels :
+
+
+Rising Edge Overshoot
+
+The following nets have values outside defined tolerance levels :
+
+
+Rising Edge Undershoot
+
+The following nets have values outside defined tolerance levels :
+
+
+The following nets were not able to be analysed :
+
+TXD
+SQ
+RXD
+PD
+NetC5_1
+HL
+GND
+12V
+5V

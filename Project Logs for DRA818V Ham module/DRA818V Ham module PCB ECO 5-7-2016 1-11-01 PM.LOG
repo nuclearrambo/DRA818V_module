@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PD Pin=P2-1
+Removed Pin From Net: NetName=HL Pin=P2-2
+Added Pin To Net: NetName=HL Pin=P2-1
+Added Pin To Net: NetName=PD Pin=P2-2
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C1 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C5 4.7u
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C6 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C7 2.2u
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C8 2.2k
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R1 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R2 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R3 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R4 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R6 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component TP1 TESTPOINT
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component U3 LM358D

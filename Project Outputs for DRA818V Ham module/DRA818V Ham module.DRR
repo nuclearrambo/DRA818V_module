@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DRA818V Ham module.PcbDoc   5/9/2016  11:38:35 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DRA818V Ham module.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             150       PTH        12.11inch (307.50mm)
+T2      28mil (0.711mm)                                           Round             17        PTH        7.50inch (190.62mm)
+T3      35mil (0.9mm)                                             Round             7         PTH        0.75inch (18.92mm)
+T4      38mil (0.965mm)                                           Round             6         PTH        2.69inch (68.36mm)
+T5      60mil (1.511mm)                                           Round             3         PTH        0.46inch (11.58mm)
+T6      65mil (1.65mm)                                            Round             5         PTH        0.77inch (19.45mm)
+T7      118mil (3mm)                                              Round             3         PTH        3.89inch (98.81mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              191
+
+Total Processing Time (hh:mm:ss) : 00:00:01
