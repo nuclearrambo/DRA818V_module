@@ -1,289 +1,76 @@
 *************************************************************
-FileName = DRA818V Ham module.GBR
-AutoAperture = True
+FileName = DRA818V Ham module.PcbDoc
+ODB++ directory structure
 *************************************************************
-Generating : Top Layer
-      File : DRA818V Ham module.GTL
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\matrix\matrix
 
-    Adding Layer      : Top Layer
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\profile
 
-    Adding Layer      : Multi-Layer
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\stephdr
 
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\attrlist
 
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-*************************************************************
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\topoverlay\features
 
-*************************************************************
-Generating : Bottom Layer
-      File : DRA818V Ham module.GBL
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\topoverlay\attrlist
 
-    Adding Layer      : Bottom Layer
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\toppaste\features
 
-    Adding Layer      : Multi-Layer
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\toppaste\attrlist
 
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\topsolder\features
 
-Used DCodes :
-    D10
-    D11
-    D12
-    D14
-    D15
-    D16
-    D19
-    D21
-    D22
-    D24
-    D27
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-*************************************************************
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\topsolder\attrlist
 
-*************************************************************
-Generating : Top Overlay
-      File : DRA818V Ham module.GTO
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\top\features
 
-    Adding Layer      : Top Overlay
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\top\attrlist
 
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\bottom\features
 
-Used DCodes :
-    D27
-    D46
-    D47
-    D48
-    D49
-*************************************************************
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\bottom\attrlist
 
-*************************************************************
-Generating : Top Paste
-      File : DRA818V Ham module.GTP
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\bottomsolder\features
 
-    Adding Layer      : Top Paste
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\bottomsolder\attrlist
 
-    Adding Layer      : Top Layer
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\bottompaste\features
 
-    Adding Layer      : Multi-Layer
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\bottompaste\attrlist
 
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\bottomoverlay\features
 
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-*************************************************************
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\bottomoverlay\attrlist
 
-*************************************************************
-Generating : Top Solder
-      File : DRA818V Ham module.GTS
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\drill\features
 
-    Adding Layer      : Top Solder
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\drill\attrlist
 
-    Adding Layer      : Top Layer
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\drill\tools
 
-    Adding Layer      : Multi-Layer
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\keepout\features
 
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\keepout\attrlist
 
-Used DCodes :
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-*************************************************************
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\mechanical1\features
 
-*************************************************************
-Generating : Bottom Solder
-      File : DRA818V Ham module.GBS
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\mechanical1\attrlist
 
-    Adding Layer      : Bottom Solder
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\mechanical13\features
 
-    Adding Layer      : Bottom Layer
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\mechanical13\attrlist
 
-    Adding Layer      : Multi-Layer
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\mechanical15\features
 
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\mechanical15\attrlist
 
-Used DCodes :
-    D52
-    D53
-    D54
-    D56
-    D57
-    D58
-    D61
-    D63
-    D64
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-*************************************************************
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\comp_+_top\features
 
-*************************************************************
-Generating : Bottom Paste
-      File : DRA818V Ham module.GBP
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\comp_+_top\components
 
-    Adding Layer      : Bottom Paste
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\comp_+_bot\features
 
-    Adding Layer      : Bottom Layer
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\layers\comp_+_bot\components
 
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D14
-    D15
-    D19
-    D21
-    D22
-    D41
-    D42
-    D43
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : DRA818V Ham module.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D46
-    D47
-    D48
-    D49
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : DRA818V Ham module.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : DRA818V Ham module.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D49
-    D79
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : DRA818V Ham module.GD1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D80
-    D81
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : DRA818V Ham module.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D49
-    D80
-*************************************************************
+Generated File : M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\Project Outputs for DRA818V Ham module\odb\steps\pcb\eda\data
 
