@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=V_IN Pin=D2-K
+Removed Pin From Net: NetName=V_IN Pin=D3-K
+Added Component: Designator=S4(450302014072)
+Added Pin To Net: NetName=V_IN Pin=S4-2
+Change Net Name : Old Net Name=V_IN New Net Name=V_IN2
+Added Pin To Net: NetName=V_IN Pin=D2-K
+Added Pin To Net: NetName=V_IN Pin=D3-K
+Added Pin To Net: NetName=V_IN Pin=S4-1
+Added Net: Name=V_IN
+Added Member To Class: ClassName=ESP12_interface Member=Component S4 450302014072

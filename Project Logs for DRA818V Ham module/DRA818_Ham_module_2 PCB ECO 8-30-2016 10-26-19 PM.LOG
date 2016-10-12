@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GPIO2 Pin=P?-1
+Removed Pin From Net: NetName=GPIO4 Pin=P?-2
+Removed Pin From Net: NetName=GPIO5 Pin=P?-3
+Removed Pin From Net: NetName=GPIO12 Pin=P?-4
+Removed Member From Class: ClassName=DRA818V_transceiver_module Member=P?
+Removed Member From Class: ClassName=ESP12_interface Member=P?
+Change Component DesignItemId : Designator=P? Old DesignItemId=Header 4X2 New DesignItemId=Header 2X2
+Change Component Footprint: Designator=P? Old Footprint=HDR2X4 New Footprint=HDR2X2
+Change Component Comment : Designator=P? Old Comment=ESP_GPIO New Comment=Header 2X2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Added Component: Designator=P4(HDR2X4)
+Added Pin To Net: NetName=GPIO2 Pin=P4-1
+Added Pin To Net: NetName=GPIO4 Pin=P4-2
+Added Pin To Net: NetName=GPIO5 Pin=P4-3
+Added Pin To Net: NetName=GPIO12 Pin=P4-4
+Added Pin To Net: NetName=GPIO13 Pin=P4-5
+Added Pin To Net: NetName=GPIO14 Pin=P4-6
+Added Pin To Net: NetName=GPIO15 Pin=P4-7
+Added Pin To Net: NetName=GPIO16 Pin=P4-8
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component P3 Header 5
+Added Member To Class: ClassName=ESP12_interface Member=Component P4 ESP_GPIO

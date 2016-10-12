@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=TXD Pin=P?-1
+Removed Pin From Net: NetName=DRA_TX_ESP_RX Pin=P?-2
+Removed Pin From Net: NetName=RXD Pin=P?-3
+Removed Pin From Net: NetName=DRA_RX_ESP_TX Pin=P?-4
+Change Component DesignItemId : Designator=P? Old DesignItemId=Header 2X2 New DesignItemId=Header 4X2
+Change Component Footprint: Designator=P? Old Footprint=HDR2X2 New Footprint=HDR2X4
+Change Component Comment : Designator=P? Old Comment=Header 2X2 New Comment=ESP_GPIO
+Added Component: Designator=P?(HDR2X2)
+Added Pin To Net: NetName=TXD Pin=P?-1
+Added Pin To Net: NetName=DRA_TX_ESP_RX Pin=P?-2
+Added Pin To Net: NetName=RXD Pin=P?-3
+Added Pin To Net: NetName=DRA_RX_ESP_TX Pin=P?-4
+Added Pin To Net: NetName=GPIO2 Pin=P?-1
+Added Pin To Net: NetName=GPIO2 Pin=U5-11
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO4 Pin=P?-2
+Added Pin To Net: NetName=GPIO4 Pin=U5-13
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO5 Pin=P?-3
+Added Pin To Net: NetName=GPIO5 Pin=U5-14
+Added Net: Name=GPIO5
+Added Pin To Net: NetName=GPIO12 Pin=P?-4
+Added Pin To Net: NetName=GPIO12 Pin=U5-6
+Added Net: Name=GPIO12
+Added Pin To Net: NetName=GPIO13 Pin=U5-7
+Added Net: Name=GPIO13
+Added Pin To Net: NetName=GPIO14 Pin=U5-5
+Added Net: Name=GPIO14
+Added Pin To Net: NetName=GPIO15 Pin=U5-10
+Added Net: Name=GPIO15
+Added Pin To Net: NetName=GPIO16 Pin=U5-4
+Added Net: Name=GPIO16
+Added Member To Class: ClassName=ESP12_interface Member=Component P? ESP_GPIO

@@ -1,0 +1,62 @@
+Added Pin To Net: NetName=V_BAT Pin=U6-9
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C1 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C2 4.7u
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C3 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C4 2.2u
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C5 2.2k
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C6 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C7 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C8 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C9 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C10 approved sub OK
+Added Member To Class: ClassName=ESP12_interface Member=Component C11 100u
+Added Member To Class: ClassName=ESP12_interface Member=Component C12 330µ
+Added Member To Class: ClassName=ESP12_interface Member=Component C13 100u
+Added Member To Class: ClassName=ESP12_interface Member=Component C14 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component D1 LED2
+Added Member To Class: ClassName=ESP12_interface Member=Component D2 SS34
+Added Member To Class: ClassName=ESP12_interface Member=Component D3 SS34
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component H1 Header
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component J1 32K249-400L5
+Added Member To Class: ClassName=ESP12_interface Member=Component J2 USB Micro Type B (recommended if hand soldering)
+Added Member To Class: ClassName=ESP12_interface Member=Component J3 Connector, jumper
+Added Member To Class: ClassName=ESP12_interface Member=Component L1 SRN6045
+Added Member To Class: ClassName=ESP12_interface Member=Component LED1 Red
+Added Member To Class: ClassName=ESP12_interface Member=Component LED2 Red
+Added Member To Class: ClassName=ESP12_interface Member=Component LED3 Red
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component P1 Header 2
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component P2 Header 5
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R1 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R2 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R3 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R4 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R5 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R6 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R7 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R8 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R9 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R10 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R11 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R12 Jumper
+Added Member To Class: ClassName=ESP12_interface Member=Component R13 Thick Film
+Added Member To Class: ClassName=ESP12_interface Member=Component R14 Thick Film
+Added Member To Class: ClassName=ESP12_interface Member=Component R15 Jumper
+Added Member To Class: ClassName=ESP12_interface Member=Component R16 Thick Film
+Added Member To Class: ClassName=ESP12_interface Member=Component R17 Thick Film
+Added Member To Class: ClassName=ESP12_interface Member=Component R18 Thick Film
+Added Member To Class: ClassName=ESP12_interface Member=Component R19 Jumper
+Added Member To Class: ClassName=ESP12_interface Member=Component R20 Thick Film
+Added Member To Class: ClassName=ESP12_interface Member=Component R21 RES_NL_0805
+Added Member To Class: ClassName=ESP12_interface Member=Component R22 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component S1 SW_THT_PB_7.0mm
+Added Member To Class: ClassName=ESP12_interface Member=Component S2 SW_THT_PB_7.0mm
+Added Member To Class: ClassName=ESP12_interface Member=Component S3 SW_THT_PB_7.0mm
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component TP1 TESTPOINT
+Added Member To Class: ClassName=ESP12_interface Member=Component TP2 TESTPOINT
+Added Member To Class: ClassName=ESP12_interface Member=Component TP3 TESTPOINT
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component U1 LM358D
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component U2 LM4871M/NOPB
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component U3 DRA818V
+Added Member To Class: ClassName=ESP12_interface Member=Component U4 AP3418
+Added Member To Class: ClassName=ESP12_interface Member=Component U5 ESP_12
+Added Member To Class: ClassName=ESP12_interface Member=Component U6 MCP73833-AMI/UN

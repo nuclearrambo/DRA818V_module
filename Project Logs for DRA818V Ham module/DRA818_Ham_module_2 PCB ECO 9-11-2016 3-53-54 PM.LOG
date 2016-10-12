@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=V_BAT Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Member From Class: ClassName=ESP12_interface Member=J3

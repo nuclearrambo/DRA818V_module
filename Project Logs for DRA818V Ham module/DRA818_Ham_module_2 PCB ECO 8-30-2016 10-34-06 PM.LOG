@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GPIO4 Pin=GPIO-2
+Removed Pin From Net: NetName=GPIO13 Pin=GPIO-5
+Change Component Designator: OldDesignator=GPIO NewDesignator=P4
+Change Component Designator: OldDesignator=UART NewDesignator=P2
+Added Pin To Net: NetName=GPIO13 Pin=P4-2
+Added Pin To Net: NetName=GPIO4 Pin=P4-5
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component P2 Header 2X2

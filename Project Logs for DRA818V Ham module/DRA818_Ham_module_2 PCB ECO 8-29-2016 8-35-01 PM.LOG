@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=ESP12_interface Member=D3
+Change Component DesignItemId : Designator=D2 Old DesignItemId=1N5387B New DesignItemId=SS34 Schotkey Diode
+Change Component Footprint: Designator=D2 Old Footprint=DO-214AB New Footprint=DO-214AA
+Added Pin To Net: NetName=V_USB Pin=D2-A
+Added Pin To Net: NetName=NetC11_1 Pin=D2-K

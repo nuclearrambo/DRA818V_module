@@ -1,0 +1,4 @@
+Added Component: Designator=D2(DO-214AA)
+Added Component: Designator=D3(DO-214AA)
+Added Member To Class: ClassName=ESP12_interface Member=Component D2 SS34
+Added Member To Class: ClassName=ESP12_interface Member=Component D3 SS34

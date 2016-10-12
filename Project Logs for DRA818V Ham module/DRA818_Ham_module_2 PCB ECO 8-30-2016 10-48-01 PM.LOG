@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=HL Pin=P3-1
+Removed Pin From Net: NetName=PD Pin=P3-2
+Removed Pin From Net: NetName=SQ Pin=P3-3
+Removed Pin From Net: NetName=RXD Pin=P3-4
+Removed Pin From Net: NetName=TXD Pin=P3-5
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Header 5 New DesignItemId=Header 3
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X5 New Footprint=HDR1X3
+Change Component Comment : Designator=P3 Old Comment=Header 5 New Comment=Header 3
+Added Component: Designator=P4(HDR1X3)
+Added Pin To Net: NetName=TXD Pin=P3-1
+Added Pin To Net: NetName=RXD Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=HL Pin=P4-1
+Added Pin To Net: NetName=PD Pin=P4-2
+Added Pin To Net: NetName=SQ Pin=P4-3
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component P4 Header 3

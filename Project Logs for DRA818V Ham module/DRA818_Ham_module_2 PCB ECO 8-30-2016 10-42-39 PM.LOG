@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GPIO15 Pin=P4-1
+Removed Pin From Net: NetName=GPIO13 Pin=P4-2
+Removed Pin From Net: NetName=GPIO2 Pin=P4-3
+Removed Pin From Net: NetName=GPIO12 Pin=P4-4
+Removed Pin From Net: NetName=GPIO4 Pin=P4-5
+Removed Pin From Net: NetName=GPIO14 Pin=P4-6
+Removed Pin From Net: NetName=GPIO5 Pin=P4-7
+Removed Pin From Net: NetName=GPIO16 Pin=P4-8
+Removed Member From Class: ClassName=ESP12_interface Member=P4

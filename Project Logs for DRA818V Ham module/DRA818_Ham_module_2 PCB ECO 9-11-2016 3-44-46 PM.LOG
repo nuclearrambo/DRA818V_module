@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=FB Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=3.3V Pin=R14-1
+Added Pin To Net: NetName=NetD4_1 Pin=R14-2
+Added Pin To Net: NetName=FB Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Member To Class: ClassName=ESP12_interface Member=Component R15 Thick Film

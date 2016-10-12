@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=D2 Old DesignItemId=SS34 Schotkey Diode New DesignItemId=1N5387B
+Change Component Description : Designator=D2 Old Description=SS34 Schotkey Diode New Description=Schotkey
+Change Component Library : Designator=D2 Old Library=SS3x.SchLib New Library=Vishay Lite-On Discrete Diode.IntLib
+Added Component: Designator=D3(DO-214AA)
+Added Member To Class: ClassName=ESP12_interface Member=Component D3 SS34
