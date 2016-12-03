@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=DRA818V_transceiver_module Member=LED2
+Change Component Footprint: Designator=C11 Old Footprint=CAPC2012X135N New Footprint=CAPMP3216X180N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC2012X135N New Footprint=CAPMP3216X180N
+Change Component Footprint: Designator=C15 Old Footprint=CAPC2012X135N New Footprint=CAPMP3216X180N
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component LED1 Super Red

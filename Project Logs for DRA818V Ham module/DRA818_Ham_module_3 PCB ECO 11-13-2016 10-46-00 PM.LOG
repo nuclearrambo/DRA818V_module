@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=3.3V_A Pin=C21-2
+Removed Pin From Net: NetName=3.3V Pin=P2-1
+Removed Pin From Net: NetName=BOOT0 Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-3
+Removed Pin From Net: NetName=3.3V Pin=P2-4
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Member From Class: ClassName=MCU_and_Power_Mgmt Member=P4
+Change Component Designator: OldDesignator=FB1 NewDesignator=Ferrite Bead1
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED3
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Added Component: Designator=C22(CAPC2012X135N)
+Added Component: Designator=C23(CAPC2012X135N)
+Added Component: Designator=C24(CAPC2012X135N)
+Added Component: Designator=R25(ERA-0805)
+Added Pin To Net: NetName=3.3V Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=3.3V Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=3.3V Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=3.3V_A Pin=C21-2
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=BOOT0 Pin=R25-2
+Change Net Name : Old Net Name=NetLED4_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=NetR25_2 New Net Name=NetR24_2
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C22 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C23 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C24 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R25 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component S1 SW_THT_PB_7.0mm

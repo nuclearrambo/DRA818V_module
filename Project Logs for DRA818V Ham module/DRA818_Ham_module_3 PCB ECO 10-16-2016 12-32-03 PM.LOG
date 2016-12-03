@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=LED3-1
+Removed Pin From Net: NetName=V_USB Pin=R23-2
+Removed Member From Class: ClassName=MCU_and_Power_Mgmt Member=LED3
+Removed Member From Class: ClassName=MCU_and_Power_Mgmt Member=R23

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U4 Old Footprint=MHDR1X8 New Footprint=HDR1X8
+Added Room: Name=DRA818V_transceiver_module
+Added Room: Name=MCU_and_Power_Mgmt

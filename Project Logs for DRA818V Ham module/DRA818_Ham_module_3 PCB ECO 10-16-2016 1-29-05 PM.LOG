@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=JTDO Pin=P4-4
+Removed Pin From Net: NetName=JTDI Pin=P4-5
+Added Pin To Net: NetName=JTDI Pin=P4-4
+Added Pin To Net: NetName=JTDO Pin=P4-5

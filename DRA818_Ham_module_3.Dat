@@ -1,0 +1,32 @@
+﻿Field=#~Integer~#~50|Field=Description~String~Description~326|Field=Designator~String~Designator~247|Field=Footprint~String~Footprint~156|Field=LibRef~String~LibRef~111|Field=Quantity~Integer~Quantity~51|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DRA818V Ham module.PrjPcb|ReportField=ProjectFullPath~M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\DRA818V Ham module.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [DRA818_Ham_module_3.PcbDoc]|ReportField=TotalQuantity~73|ReportField=ReportTime~11:29:11 PM|ReportField=ReportDate~11/29/2016|ReportField=ReportDateTime~11/29/2016 11:29:11 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~DRA818_Ham_module_3.PcbDoc|ReportField=DataSourceFullPath~M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\DRA818_Ham_module_3.PcbDoc
+1|Capacitor SMD Cer 100nF 10% 100V X7R 0805, Capacitor SMD Cer 100nF 10% 100V X7R 0805, Capacitor SMD Cer 100nF 10% 100V X7R 0805, Capacitor SMD Cer 100nF 10% 100V X7R 0805, Capacitor SMD Cer 100nF 10% 100V X7R 0805, Capacitor SMD Cer 100nF 10% 100V X7R 0805, Capacitor SMD Cer 100nF 10% 100V X7R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805|C1, C3, C6, C7, C8, C9, C10, C13, C16, C17, C18, C19, C20, C21, C22, C23, C24|CAPC2012X135N|CAPC_100n_0805_X7R_100V_10%, CAPC_100n_0805_X7R_100V_10%, CAPC_100n_0805_X7R_100V_10%, CAPC_100n_0805_X7R_100V_10%, CAPC_100n_0805_X7R_100V_10%, CAPC_100n_0805_X7R_100V_10%, CAPC_100n_0805_X7R_100V_10%, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V|17
+2|Capacitor SMD Tantalum 33uF 10% 6.3V 3216-18|C2|CAPMP3216X180N|CAPT_33u_3216_6V3|1
+3|Capacitor SMD Tantalum 33uF 10% 6.3V 3216-18|C4|CAPMP3216X180N|CAPT_33u_3216_6V3|1
+4|Capacitor SMD Tantalum 33uF 10% 6.3V 3216-18|C5|CAPMP3216X180N|CAPT_33u_3216_6V3|1
+5|Capacitor SMD Cer 4.7uF 10% 16V X5R 0805|C11, C12, C15|CAPMP3216X180N|CAPC_4u7_0805|3
+6|Capacitor SMD Tant 330uF 20% 6V3 2917|C14|CAPMP7343X310N|CAPT_330u_2917_6V3|1
+7|Fuse 160mA 63VDC 1206 SMD|F1|RESC3216X70N|FUSE_160mA_1206|1
+8|SMD EMI Suppression Ferrite Beads WE-CBF, Z= 32 Ohm|Ferrite Bead1|SMD 1206|WE-CBF 1206, 7427921|1
+9|SMA Right Angle Jack, Edge Mount, Up to 18 GHz, -55 to 155 degC|J1|ROS-32K145-400L5_V|32K145-400L5|1
+10|Connector SMD-THD USB Micro Type B middle mount|J2|USB_Micro-B_FCI_SMD|USB_Micro_TypeB_FCI|1
+11|Terminal Block Screw Type THT 2-Position 3.81mm pitch|J3|2P_PCB_ScrewTerm_90S_3.81MM|2P_ScrewTerm_90S_3.81MM|1
+12|IND 1800uH +/-20% 0.070A 31.5oh LPS4018|L1|COILCRAFT_LPS4018|370|1
+13|THT LED round mono-color color lens, WL-TMRW, Super Red|LED1, LED2, LED3|Type 3mm|WL-TMRW, Type 3mm, 151031SS04000|3
+14|Header, 2-Pin|P1|HDR1X2|Header 2|1
+15|Header, 3-Pin|P2|HDR1X3|Header 3|1
+16|Header, 7-Pin|P3|HDR1X7|Header 7|1
+17|Resistor SMD chip 1.3k Ohm 0.125W 1% 0805, Resistor SMD chip 7.87k Ohm 0.125W 1% 0805, Resistor SMD chip 100k Ohm 0.125W 1% 0805, Resistor SMD chip 100k Ohm 0.125W 1% 0805|R1, R2, R4, R6|ERA-0805|RES_1K3_0805_1%, RES_7K87_0805_1%, RES_100K_0805_1%, RES_100K_0805_1%|4
+18|Resistor SMD chip 0.0 Ohm 0.125W 0805|R3, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R21, R22, R23, R24, R25|ERA-0805|RES_0R_0805|17
+19|Resistor SMD chip 0.0 Ohm 0.125W 0805|R5|6-0805|RES_0R_0805|1
+20|Resistor SMD chip 100 Ohm 0.125W 1% 0805|R18, R19, R20|RESC2012X70N|RES_100R_0805_1%|3
+21|Switch, tact, 7.0mm stem|S1, S2|TACT-SWITCH-TS1170|SW_THT_PB_7.0mm|2
+22|WS-SLTU 10x2.5 mm THT right angled|S3|450302014072|WS-SLTU, 450302014072|1
+23|Dual Low-Power Operational Amplifier|U1|751-02_N|LM358D|1
+24|3W Audio Power Amplifier with Shutdown Mode, 8-pin Narrow SOIC, Pb-Free|U2|M08A_N|LM4871M/NOPB|1
+25||U3|DRA818_BREAKOUT|DRA818V|1
+26|Nokia 5110 LCD module|U4|HDR1X8|Nokia 5110|1
+27|DC/DC buck converter|U5|SOT23-5|AP3418|1
+28|EC12 Rotary encoder|U6|EC12|EC12 Rotary Encoder|1
+29|STM32 ARM-based 32-bit MCU with 128 Kbytes Flash, 48-pin LQFP, Industrial Temperature|U7|LQFP48_N|STM32F101CBT6|1
+30|Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller, 4.35V, 5-Pin SOT-23, Industrial Temperature, Tape and Reel|U8|SOT-23-OT5_N|MCP73831T-3ACI/OT|1
+31|Crystal Oscillator|Y1|HC-49U|ECS-10-13-1|1

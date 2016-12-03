@@ -1,0 +1,80 @@
+Change Component Designator: OldDesignator=3.3VTP NewDesignator=TP2
+Change Component Designator: OldDesignator=Charging NewDesignator=LED4
+Change Component Designator: OldDesignator=FB1 NewDesignator=Ferrite Bead1
+Added Pin To Net: NetName=NetC13_2 Pin=U7-7
+Change Net Name : Old Net Name=NetC13_2 New Net Name=RESET
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C1 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C2 4.7u
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C3 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C4 2.2u
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C5 2.2k
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C6 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C7 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C8 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C9 approved sub OK
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component C10 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C11 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C12 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C13 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C14 100u
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C15 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C16 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C17 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C18 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C19 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C20 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component C21 approved sub OK
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component F1 Slow-blow
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component Ferrite Bead1 2.2k@100MHz
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component H1 Header
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component J1 32K145-400L5
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component J2 USB Micro Type B (recommended if hand soldering)
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component J3 Stackable ScrewTerm
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component L1 2.2uH
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component LED1 Super Red
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component LED2 Super Red
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component LED4 Super Red
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component P1 Header 2
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component P2 Header 3X2A
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component P3 Programming port
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component P4 JTAG
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R1 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R2 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R3 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R4 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R5 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R6 Thick Film
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R7 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R8 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R9 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R10 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R11 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component R12 Jumper
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R13 Jumper
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R14 Jumper
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R15 Jumper
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R16 Jumper
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R17 Jumper
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R18 Thick Film
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R19 Thick Film
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R20 Thick Film
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R21 Jumper
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R22 Jumper
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R24 Jumper
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component R25 Jumper
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component S1 SW_THT_PB_7.0mm
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component S2 SW_THT_PB_7.0mm
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component S3 450302014072
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component TP1 TESTPOINT
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component TP2 TESTPOINT
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component TP3 TESTPOINT
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component TP4 TESTPOINT
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component U1 LM358D
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component U2 LM4871M/NOPB
+Added Member To Class: ClassName=DRA818V_transceiver_module Member=Component U3 DRA818V
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component U4 Nokia 5110
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component U5 AP3418
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component U6 EC12 Rotary encoder
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component U7 STM32F101CBT6
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component U8 MCP73831T-3ACI/OT
+Added Member To Class: ClassName=MCU_and_Power_Mgmt Member=Component Y1 ECS-10-13-1

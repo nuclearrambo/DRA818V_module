@@ -1,0 +1,49 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~166|Field=Description~String~Description~283|Field=Designator~String~Designator~189|Field=LibRef~String~LibRef~56|Field=Quantity~Integer~Quantity~56|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DRA818V Ham module.PrjPcb|ReportField=ProjectFullPath~M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\DRA818V Ham module.PrjPcb|ReportField=Title~Bill of Materials For Project [DRA818V Ham module.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~73|ReportField=ReportTime~12:10:31 AM|ReportField=ReportDate~11/30/2016|ReportField=ReportDateTime~11/30/2016 12:10:31 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~L3, 12a Rodborough Rd|ReportField=Address2~Frenchs Forest|ReportField=Address3~NSW|ReportField=Address4~Australia 2086|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=AuthorName~Salil Tembe|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~11/30/2016|ReportField=CurrentTime~12:07:29 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\DRA818V_transceiver_module.SchDoc|ReportField=DocumentName~DRA818V_transceiver_module.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~11/30/2016|ReportField=Organization~Altium Limited|ReportField=ProjectName~DRA818V Ham module.PrjPcb|ReportField=Reference~https://nebula.wsimg.com/bb20397fc7ffa1e43a58e57264597687?AccessKeyId=DAA432FA80C5DABC0234&disposition=0&alloworigin=1|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~DRA818V Ham module.PrjPcb|ReportField=DataSourceFullPath~M:\Altium Projects\DRA818V HAM module\DRA818V Ham module\DRA818V Ham module.PrjPcb
+1|0.1u|Capacitor SMD Cer 100nF 10% 100V X7R 0805|C8, C9|CAPC_100n_0805_X7R_100V_10%|2
+2|0.1uF|Capacitor SMD Cer 100nF 10% 100V X7R 0805, Capacitor SMD Cer 100nF 10% 100V X7R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805, Capacitor SMD Cer 10uF 10% 10V X5R 0805|C3, C10, C13, C18, C19, C20, C21, C22, C23, C24|CAPC_100n_0805_X7R_100V_10%, CAPC_100n_0805_X7R_100V_10%, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V, CAPC_10u_0805_10V|10
+3|0.39u|Capacitor SMD Cer 100nF 10% 100V X7R 0805|C7|CAPC_100n_0805_X7R_100V_10%|1
+4|1k|Resistor SMD chip 0.0 Ohm 0.125W 0805|R23|RES_0R_0805|1
+5|1.5K|Resistor SMD chip 100 Ohm 0.125W 1% 0805|R18|RES_100R_0805_1%|1
+6|2.2k|Capacitor SMD Tantalum 33uF 10% 6.3V 3216-18|C5|CAPT_33u_3216_6V3|1
+7|2.2K|Resistor SMD chip 0.0 Ohm 0.125W 0805|R24|RES_0R_0805|1
+8|2.2u|Capacitor SMD Tantalum 33uF 10% 6.3V 3216-18|C4|CAPT_33u_3216_6V3|1
+9|2.2uH|IND 1800uH +/-20% 0.070A 31.5oh LPS4018|L1|370|1
+10|4µ7|Capacitor SMD Cer 4.7uF 10% 16V X5R 0805|C11|CAPC_4u7_0805|1
+11|4.7k|Resistor SMD chip 0.0 Ohm 0.125W 0805|R11|RES_0R_0805|1
+12|4.7u|Capacitor SMD Tantalum 33uF 10% 6.3V 3216-18|C2|CAPT_33u_3216_6V3|1
+13|6k|Resistor SMD chip 1.3k Ohm 0.125W 1% 0805|R1|RES_1K3_0805_1%|1
+14|10|Resistor SMD chip 0.0 Ohm 0.125W 0805|R3|RES_0R_0805|1
+15|10k|Resistor SMD chip 0.0 Ohm 0.125W 0805|R9, R14, R15, R16|RES_0R_0805|4
+16|10pF|Capacitor SMD Cer 100nF 10% 100V X7R 0805|C1, C6|CAPC_100n_0805_X7R_100V_10%|2
+17|10uF|Capacitor SMD Cer 4.7uF 10% 16V X5R 0805|C15|CAPC_4u7_0805|1
+18|18pF|Capacitor SMD Cer 10uF 10% 10V X5R 0805|C16, C17|CAPC_10u_0805_10V|2
+19|22R|Resistor SMD chip 100 Ohm 0.125W 1% 0805|R19, R20|RES_100R_0805_1%|2
+20|22uF|Capacitor SMD Cer 4.7uF 10% 16V X5R 0805|C12|CAPC_4u7_0805|1
+21|32K145-400L5|SMA Right Angle Jack, Edge Mount, Up to 18 GHz, -55 to 155 degC|J1|32K145-400L5|1
+22|100k|Resistor SMD chip 0.0 Ohm 0.125W 0805|R5|RES_0R_0805|1
+23|100k|Resistor SMD chip 7.87k Ohm 0.125W 1% 0805, Resistor SMD chip 100k Ohm 0.125W 1% 0805, Resistor SMD chip 100k Ohm 0.125W 1% 0805|R2, R4, R6|RES_7K87_0805_1%, RES_100K_0805_1%, RES_100K_0805_1%|3
+24|100R|Resistor SMD chip 0.0 Ohm 0.125W 0805|R17|RES_0R_0805|1
+25|100u|Capacitor SMD Tant 330uF 20% 6V3 2917|C14|CAPT_330u_2917_6V3|1
+26|150k|Resistor SMD chip 0.0 Ohm 0.125W 0805|R7|RES_0R_0805|1
+27|270R|Resistor SMD chip 0.0 Ohm 0.125W 0805|R13|RES_0R_0805|1
+28|390|Resistor SMD chip 0.0 Ohm 0.125W 0805|R8|RES_0R_0805|1
+29|450302014072|WS-SLTU 10x2.5 mm THT right angled|S3|WS-SLTU, 450302014072|1
+30|AP3418|DC/DC buck converter|U5|AP3418|1
+31|DRA818V||U3|DRA818V|1
+32|EC12 Rotary Encoder|EC12 Rotary encoder|U6|EC12 Rotary Encoder|1
+33|ECS-10-13-1|Crystal Oscillator|Y1|ECS-10-13-1|1
+34|Ferrite bead 1206|SMD EMI Suppression Ferrite Beads WE-CBF, Z= 32 Ohm|Ferrite Bead1|WE-CBF 1206, 7427921|1
+35|Header 2|Header, 2-Pin|P1|Header 2|1
+36|JTAG|Header, 7-Pin|P3|Header 7|1
+37|Jumper|Resistor SMD chip 0.0 Ohm 0.125W 0805|R10, R12, R21, R22, R25|RES_0R_0805|5
+38|LM358D|Dual Low-Power Operational Amplifier|U1|LM358D|1
+39|LM4871M/NOPB|3W Audio Power Amplifier with Shutdown Mode, 8-pin Narrow SOIC, Pb-Free|U2|LM4871M/NOPB|1
+40|MCP73831T-3ACI/OT|Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller, 4.35V, 5-Pin SOT-23, Industrial Temperature, Tape and Reel|U8|MCP73831T-3ACI/OT|1
+41|Nokia 5110|Nokia 5110 LCD module|U4|Nokia 5110|1
+42|Programming port|Header, 3-Pin|P2|Header 3|1
+43|Slow-blow|Fuse 160mA 63VDC 1206 SMD|F1|FUSE_160mA_1206|1
+44|Stackable ScrewTerm|Terminal Block Screw Type THT 2-Position 3.81mm pitch|J3|2P_ScrewTerm_90S_3.81MM|1
+45|STM32F101CBT6|STM32 ARM-based 32-bit MCU with 128 Kbytes Flash, 48-pin LQFP, Industrial Temperature|U7|STM32F101CBT6|1
+46|Super Red|THT LED round mono-color color lens, WL-TMRW, Super Red|LED1, LED2, LED3|WL-TMRW, Type 3mm, 151031SS04000|3
+47|SW_THT_PB_7.0mm|Switch, tact, 7.0mm stem|S1, S2|SW_THT_PB_7.0mm|2
+48|USB Micro Type B (recommended if hand soldering)|Connector SMD-THD USB Micro Type B middle mount|J2|USB_Micro_TypeB_FCI|1

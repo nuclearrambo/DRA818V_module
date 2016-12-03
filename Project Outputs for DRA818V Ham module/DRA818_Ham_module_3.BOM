@@ -1,0 +1,40 @@
+Bill of Material for 
+On 11/29/2016 at 11:24:17 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100u                CAPMP7343X310N    1    C14                          Capacitor SMD Tant 330uF 20% 6V3 2917 
+ 2.2k@100MHz         SMD 1206         1    Ferrite Bead1                SMD EMI Suppression Ferrite Beads WE-CBF, Z= 32 Ohm 
+ 2.2k                CAPMP3216X180N    1    C5                           Capacitor SMD Tantalum 33uF 10% 6.3V 3216-18 
+ 2.2u                CAPMP3216X180N    1    C4                           Capacitor SMD Tantalum 33uF 10% 6.3V 3216-18 
+ 2.2uH               COILCRAFT_LPS4018    1    L1                           IND 1800uH +/-20% 0.070A 31.5oh LPS4018 
+ 32K145-400L5        ROS-32K145-400L5_V    1    J1                           SMA Right Angle Jack, Edge Mount, Up to 18 GHz, -55 to 155 degC 
+ 4.7u                CAPMP3216X180N    1    C2                           Capacitor SMD Tantalum 33uF 10% 6.3V 3216-18 
+ 450302014072        450302014072     1    S3                           WS-SLTU 10x2.5 mm THT right angled 
+ AP3418              SOT23-5          1    U5                           DC/DC buck converter 
+ approved sub OK     CAPC2012X135N   17    C1, C3, C6, C7, C8, C9, C10  Capacitor SMD Cer 100nF 10% 100V X7R 0805 
+                                           C13, C16, C17, C18, C19, C20
+                                           C21, C22, C23, C24
+ approved sub OK     CAPMP3216X180N    3    C11, C12, C15                Capacitor SMD Cer 4.7uF 10% 16V X5R 0805 
+ DRA818V             DRA818_BREAKOUT    1    U3                                                
+ EC12 Rotary encoder EC12             1    U6                           EC12 Rotary encoder  
+ ECS-10-13-1         HC-49U           1    Y1                           Crystal Oscillator   
+ Header 2            HDR1X2           1    P1                           Header, 2-Pin        
+ JTAG                HDR1X7           1    P3                           Header, 7-Pin        
+ Jumper              6-0805           1    R5                           Resistor SMD chip 0.0 Ohm 0.125W 0805 
+ Jumper              ERA-0805        17    R3, R7, R8, R9, R10, R11, R12 Resistor SMD chip 0.0 Ohm 0.125W 0805 
+                                           R13, R14, R15, R16, R17, R21
+                                           R22, R23, R24, R25
+ LM358D              751-02_N         1    U1                           Dual Low-Power Operational Amplifier 
+ LM4871M/NOPB        M08A_N           1    U2                           3W Audio Power Amplifier with Shutdown Mode, 8-pin Narrow SOIC, Pb-Free 
+ MCP73831T-3ACI/OT   SOT-23-OT5_N     1    U8                           Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller, 4.35V, 5-Pin SOT-23, Industrial Temperature, Tape and Reel 
+ Nokia 5110          HDR1X8           1    U4                           Nokia 5110 LCD module 
+ Programming port    HDR1X3           1    P2                           Header, 3-Pin        
+ Slow-blow           RESC3216X70N     1    F1                           Fuse 160mA 63VDC 1206 SMD 
+ Stackable ScrewTerm 2P_PCB_ScrewTerm_90S_3.81MM    1    J3                           Terminal Block Screw Type THT 2-Position 3.81mm pitch 
+ STM32F101CBT6       LQFP48_N         1    U7                           STM32 ARM-based 32-bit MCU with 128 Kbytes Flash, 48-pin LQFP, Industrial Temperature 
+ Super Red           Type 3mm         3    LED1, LED2, LED3             THT LED round mono-color color lens, WL-TMRW, Super Red 
+ SW_THT_PB_7.0mm     TACT-SWITCH-TS1170    2    S1, S2                       Switch, tact, 7.0mm stem 
+ Thick Film          ERA-0805         4    R1, R2, R4, R6               Resistor SMD chip 1.3k Ohm 0.125W 1% 0805 
+ Thick Film          RESC2012X70N     3    R18, R19, R20                Resistor SMD chip 100 Ohm 0.125W 1% 0805 
+ USB Micro Type B (recommended if hand soldering) USB_Micro-B_FCI_SMD    1    J2                           Connector SMD-THD USB Micro Type B middle mount 

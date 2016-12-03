@@ -1,13 +1,9 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [DRA818V Ham module.PrjPcb]
-   Generated File[DRA818V Ham module.TXT]
-   Generated File[DRA818V Ham module.DRL]
-   Generated File[DRA818V Ham module.LDP]
-   Generated File[DRA818V Ham module.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [DRA818V Ham module.PrjPcb]
 
 
-Files Generated   : 4
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 7:24:56 PM On 6/9/2016
+Finished Output Generation At 12:12:03 AM On 11/30/2016

@@ -3,7 +3,7 @@
 .cu_base = no
 .comment =
 .inp_file =
-.eda_layers = "BottomLayer"
+.eda_layers = "SolderSide"
 .out_angle = 0.0
 .out_polarity = positive
 .layer_hdi_type = buildup
